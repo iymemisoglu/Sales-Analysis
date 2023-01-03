@@ -1,2 +1,2 @@
 # Sales-Analysis
-The document contains some sales analysis with graphs by using Python, Pandas, Matplotlib
+The document contains some sales analysis with graphs by using Python, Pandas, Matplotlib on IDE jupyter notebook
